@@ -1,0 +1,32 @@
+{
+  "Name": "XKOVA",
+  "VM": "Subnet-EVM",
+  "VMVersion": "v0.6.9",
+  "RPCVersion": 37,
+  "Subnet": "XKOVA",
+  "ExternalToken": false,
+  "TokenName": "USDC Token",
+  "TokenSymbol": "USDC",
+  "ChainID": "",
+  "Version": "1.4.0",
+  "Networks": {
+    "Fuji": {
+      "SubnetID": "2ubVUX3BQeBv6PGNqYQACbRDSKpe5suGwK24PUZRunBXt9ZChN",
+      "TransferSubnetOwnershipTxID": "11111111111111111111111111111111LpoYY",
+      "BlockchainID": "69ofvFQ6SUYXW2HUsmEazwSSuDuUUVHuiSzmwb6A7nxQUNanJ",
+      "RPCVersion": 37,
+      "TeleporterMessengerAddress": "0x253b2784c75e510dD0fF1da844684a1aC0aa5fcf",
+      "TeleporterRegistryAddress": "0xE3cA2548F0e2e87DFdcd00E4d9A0A24567802503"
+    }
+  },
+  "ImportedFromAPM": false,
+  "ImportedVMID": "",
+  "CustomVMRepoURL": "",
+  "CustomVMBranch": "",
+  "CustomVMBuildScript": "",
+  "TeleporterReady": true,
+  "TeleporterKey": "cli-teleporter-deployer",
+  "TeleporterVersion": "v1.0.0",
+  "RunRelayer": true,
+  "SubnetEVMMainnetChainID": 0
+}

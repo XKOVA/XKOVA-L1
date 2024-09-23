@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0xBA713ee75f78BB8e18112a8f0De1103c3c582208",
+    "name": "Wrapped USDC",
+    "symbol": "USDC",
+    "description": "Mock wrapped native token",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "assetType": "Variable Cap",
+    "logoUrl": "https://assets.xkova.com/branding/usdc.png"
+  }
+]

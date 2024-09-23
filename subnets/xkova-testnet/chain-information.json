@@ -1,0 +1,37 @@
+{
+  "chainName": "XKOVA",
+  "description": "XKOVA is a payment platform and decentralized wireless blockchain infrastructure powered by an Avalanche L1 using bridged Circle USDC as its native token.",
+  "chainId": 33333333,
+  "blockchainId": "69ofvFQ6SUYXW2HUsmEazwSSuDuUUVHuiSzmwb6A7nxQUNanJ",
+  "subnetId": "2ubVUX3BQeBv6PGNqYQACbRDSKpe5suGwK24PUZRunBXt9ZChN",
+  "vmId": "ftMfcvpey1LEungZ5Mu9sn63XdhFwiFZnocCriwtgLi9pqqkA",
+  "vmName": "EVM",
+  "explorerUrl": "https://explorer.xkova.com/",
+  "rpcUrl": "https://testnet-rpc.xkova.com/ext/bc/69ofvFQ6SUYXW2HUsmEazwSSuDuUUVHuiSzmwb6A7nxQUNanJ/rpc",
+  "wsUrl": "wss://testnet-ws.xkova.com/ext/bc/69ofvFQ6SUYXW2HUsmEazwSSuDuUUVHuiSzmwb6A7nxQUNanJ/ws",
+  "isTestnet": true,
+  "networkToken": {
+    "name": "XKOVA",
+    "symbol": "USDC",
+    "decimals": 18,
+    "description": "Circle USDC is the native token of XKOVA.",
+    "logoUri": "https://assets.xkova.com/branding/usdc.png"
+  },
+  "utilityAddresses": {
+    "weth": "0xBA713ee75f78BB8e18112a8f0De1103c3c582208"
+  },
+  "officialSite": "https://xkova.com",
+  "resourceLinks": [
+    {
+      "type": "Documentation",
+      "url": "https://docs.xkova.com/"
+    },
+    {
+      "type": "Github",
+      "url": "https://github.com/XKOVA"
+    }
+  ],
+  "network": "avalanche",
+  "primaryColor": "#000000",
+  "logoUri": "https://assets.xkova.com/branding/xkova_icon-400x400.png"
+}

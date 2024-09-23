@@ -1,0 +1,21 @@
+{
+  "name": "XKOVA Fuji Token List",
+  "logoUri": "https://assets.xkova.com/branding/xkova_icon-400x400.png",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "keywords": [ "avalanche", "fuji", "xkova" ],
+  "timestamp": "2024-09-21T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 33333333,
+      "address": "0xBA713ee75f78BB8e18112a8f0De1103c3c582208",
+      "decimals": 18,
+      "name": "Wrapped USDC",
+      "symbol": "USDC",
+      "logoUrl": "https://assets.xkova.com/branding/usdc.png"
+    }
+  ]
+}
