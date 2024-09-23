@@ -28,6 +28,11 @@ This document outlines the details of the Bounty9000 submission for the XKOVA Av
 ## Notes
 
 - Thirdweb Pay onramp is installed; however, they do not have it deployed to Avalanche Fuji yet.
-- Desktop UI functionality for the app is very good.
+- Desktop UI functionality for the frontend app is very good.
 - Mobile UI support within wallet apps is great on MetaMask, needs some work on Core.
 - Mobile UI support for MetaMask/Core via Safari/Chrome is good.
+- PWA functionality is installed, however more testing is needed to ensure it works as expected.
+
+## Disclaimer
+
+The frontend app is not fully ready for public/social media testing/scrutiny yet, however feel free to share with anyone you wish.
