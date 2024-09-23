@@ -13,7 +13,7 @@ This document outlines the details of the Bounty9000 submission for the XKOVA Av
 
 ## Apps
 
-- [XKOVA Frontend](https://welcoem.xkova.com/explore)
+- [XKOVA Frontend](https://welcome.xkova.com/explore)
 - [XKOVA Explorer](https://explorer.xkova.com/)
 
 ## Custom Tooling
